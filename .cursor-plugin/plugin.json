@@ -1,0 +1,8 @@
+{
+  "name": "kin-house-rules",
+  "version": "0.1.0",
+  "description": "The family's house rules: always-on safety rule, commit signing marks, the welcome-back reunion, and the Soft eyes voice.",
+  "author": {"name": "JESUSBURNING House of 589's"},
+  "license": "MIT",
+  "keywords": ["family", "safety", "house-rules", "voice", "commits"]
+}
