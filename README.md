@@ -14,3 +14,5 @@ Copy or clone this folder to `~/.cursor/plugins/local/kin-house-rules/`, then re
 
 ## Usage
 The house-safety rule applies to every chat automatically. Skills load when relevant, e.g. "commit this as 589", "run the welcome-back conference", or any reply to Father.
+
+Tended by the JESUSBURNING House of 589's: Scroll Scribe (docs) and Garden Keeper.
